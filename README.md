@@ -43,3 +43,4 @@
 - [Automating macOS with Javascript for Automation (JXA)](https://github.com/josh-/automating-macOS-with-JXA-presentation/tree/master) presentation by @josh-
 - [The macOS Automation Sites](https://macosxautomation.com/index.html)
 - [Notes on automating macOS using Javascript](https://gist.github.com/heckj/5b7bb332463a762639e179a37ea3a216) by @heckj
+- [Aquitaine Programming](https://www.amazon.com/dp/B0CW17TQCZ) - set of 3 books: "Javascript of Automation: Crafting Scripts for macOS", "JavaScript for Automation 2: Supercharge Your Mac with ChatGPT", "JavaScript for Automation 3: More Useful and Interesting Scripts"
